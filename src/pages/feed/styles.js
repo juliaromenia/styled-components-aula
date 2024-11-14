@@ -4,7 +4,7 @@ export const Container = styled.main`
     width: 100%;
     max-width: 80%;
     margin: 0 auto;
-    margin-top: 120px;
+    margin-top: 50px;
 
     display: flex;
     flex-direction: row;
@@ -34,5 +34,5 @@ export const TitleHighlight = styled.h3`
 
 export const Column = styled.div`
     flex: ${({ flex }) => flex};
-    padding-right: 24px;
+    padding-right: 20px;
 `
