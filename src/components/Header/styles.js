@@ -9,6 +9,7 @@ export const Container = styled.div`
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
+    font-family: 'Open Sans';
 `
 
 export const Row = styled.div`
